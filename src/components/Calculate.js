@@ -9,14 +9,14 @@ const Calculate = () => {
           <h1
             className="section-title"
             data-aos="fade-up"
-            data-aos-offset="400"
+            data-aos-offset="50"
           >
             Check how much you can earn
           </h1>
           <p
             className="section-subtitle mx-auto mb-16 max-w-[622px] text-lg"
             data-aos="fade-up"
-            data-aos-offset="450"
+            data-aos-offset="50"
           >
             Let’s check your hash rate to see how much you will earn today,
             Exercitation veniam consequat sunt nostrud amet.
