@@ -8,7 +8,7 @@ const FeaturesSection1 = () => {
         <div
           className="mb-6 max-w-[454px] flex-1  lg:mt-10"
           data-aos="fade-right"
-          data-aos-offset="400"
+          data-aos-offset="50"
         >
           <h1 className="h3 mb-6">Invest Smart</h1>
           <p className="mb-8 text-gray">
@@ -20,7 +20,7 @@ const FeaturesSection1 = () => {
         <div
           className="flex flex-1 justify-end"
           data-aos="fade-left"
-          data-aos-offset="400"
+          data-aos-offset="50"
         >
           <img src={feature1} alt="imagesection" />
         </div>
