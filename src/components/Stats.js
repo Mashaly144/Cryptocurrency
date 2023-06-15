@@ -5,7 +5,7 @@ const Stats = () => {
     <section
       className="section container mx-auto"
       data-aos="fade-up"
-      data-aos-delay="1200"
+      data-aos-delay="50"
     >
       {/* all state */}
       <div className="flex flex-col gap-y-6 lg:flex-row lg:justify-between">
