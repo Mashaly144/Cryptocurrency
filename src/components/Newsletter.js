@@ -8,7 +8,7 @@ const Newsletter = () => {
         <div
           className="flex flex-col items-center justify-between rounded-2xl bg-blue p-12 lg:h-[216px] lg:flex-row lg:bg-newsletterBox lg:bg-no-repeat"
           data-aos="fade-up"
-          data-aos-offset="400"
+          data-aos-offset="50"
         >
           {/* text */}
           <div className="w-full flex-1">
