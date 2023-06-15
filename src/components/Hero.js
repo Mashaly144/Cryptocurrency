@@ -12,7 +12,7 @@ const Hero = () => (
           <div
             className="mb-6 max-w-[365px] rounded-full bg-white/10 p-1 pl-1 pr-3"
             data-aos="fade-down"
-            data-aos-delay="400"
+            data-aos-delay="50"
           >
             <div className=" flex items-center justify-between text-sm lg:text-base">
               <div className="rounded-full bg-white px-4 py-1 font-medium text-darkblue">
@@ -24,14 +24,14 @@ const Hero = () => (
           <h1
             className="mb-6 text-[32px] font-bold leading-tight lg:text-[64px]"
             data-aos="fade-down"
-            data-aos-delay="500"
+            data-aos-delay="50"
           >
             Fastest & secure platform to invest <br /> in crypto
           </h1>
           <p
             className="mb-8 max-w-[440px] leading-relaxed"
             data-aos="fade-down"
-            data-aos-delay="600"
+            data-aos-delay="50"
           >
             Buy and sell cryptocurrencies, trusted by 10M wallets with over $30
             billion in transactions.s
@@ -39,7 +39,7 @@ const Hero = () => (
           <button
             className="btn gap-x-6 pl-6 text-sm lg:h-16 lg:text-base "
             data-aos="fade-down"
-            data-aos-delay="700"
+            data-aos-delay="50"
           >
             Try for FREE{' '}
             <IoIosArrowDroprightCircle className="text-2xl lg:text-3xl" />
