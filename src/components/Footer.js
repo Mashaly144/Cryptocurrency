@@ -13,7 +13,7 @@ import bitcoin from '../assets/img/bitcoin.png';
 import { navData, resources } from '../data';
 const Footer = () => {
   return (
-    <footer className="pt-0 lg:pt-24" data-aos="fade-up" data-aos-offset="400">
+    <footer className="pt-0 lg:pt-24" data-aos="fade-up" data-aos-offset="50">
       <div className="container mx-auto lg:mb-24">
         <div className="flex flex-col gap-12 lg:flex-row">
           {/* logo */}
