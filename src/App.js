@@ -18,8 +18,8 @@ const App = () => {
   const [navMobile, setnavMobile] = useState(false);
   useEffect(() => {
     Aos.init({
-      duration: 2500,
-      delay: 400,
+      duration: 1000,
+      delay: 50,
     });
   });
 
