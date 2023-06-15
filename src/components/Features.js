@@ -10,7 +10,7 @@ const Features = () => {
           <h2
             className="section-title"
             data-aos="fade-up"
-            data-aos-offset="400"
+            data-aos-offset="50"
           >
             Market sentiments, portfolio, and run the infrastructure of your
             choice
