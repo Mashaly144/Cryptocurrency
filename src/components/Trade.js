@@ -10,7 +10,7 @@ const Trade = () => {
         <h2
           className="section-title mb-16 text-center"
           data-aos="fade-up"
-          data-aos-offset="400"
+          data-aos-offset="50"
         >
           Trade securely and market the high growth cryptocurrencies.
         </h2>
@@ -18,7 +18,7 @@ const Trade = () => {
         <div
           className="flex flex-col  gap-[45px]  lg:flex-row"
           data-aos="fade-up"
-          data-aos-offset="450"
+          data-aos-offset="50"
         >
           {currency.map((item, index) => {
             return (
